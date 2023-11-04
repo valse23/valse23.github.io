@@ -1,0 +1,52 @@
+body{
+background-color: white;
+
+}
+
+hr{
+
+    border-color: blue;
+}
+
+h1{
+font-family:"Serif","Times New Roman";
+}
+h3{
+    font-style: italic;
+}
+    
+
+ 
+.movies img {
+    margin:0px;
+    max-width: 400px;
+    max-height: 450px
+}
+
+
+.mood {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+ .mood img {
+    max-width:400px;
+    max-height:450px;
+    float: left;
+  }
+  
+.mood h3 {
+    font-size: 40px;
+    padding-left: 20px;
+    padding-top: 20%;
+    float: left;
+  }
+
+  .end{
+    font-family:"Cursive", "Lucida Handwriting";
+    color: red;
+  }
+  .n li{
+    font-size: 25px;
+  }
